@@ -26,7 +26,7 @@ if(!$gossip)
     <meta name="author" content="">
     <link rel="icon" href="">
 
-    <title>Hijab-Qu, Informasi Hijab Masa Kini</title>
+    <title>PeopLifestyle, Informasi Hijab Masa Kini</title>
 
     <style>
     .konten{
@@ -70,7 +70,7 @@ if(!$gossip)
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Hijab-Qu</a>
+              <a class="navbar-brand" href="#">PeopLifestyle</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -105,7 +105,7 @@ if(!$gossip)
           <img src="img\16.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu.</h1>
+              <h1>PeopLifestyle.</h1>
               <p>Web Berisi Informasi Hijab Masa Kini</p>
               <p><a class="btn btn-lg btn-primary" href="signup.html" role="button">Sign up</a></p>
             </div>
@@ -115,7 +115,7 @@ if(!$gossip)
           <img src="img\22.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
+              <h1>PeopLifestyle</h1>
               <p>Web Berisi Informasi Hijab Masa Kini</p>
               <p><a class="btn btn-lg btn-primary" href="signup.html" role="button">Sign up</a></p>
             </div>
@@ -125,7 +125,7 @@ if(!$gossip)
           <img src="img\18.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
+              <h1>PeopLifestyle</h1>
               <p>Web Berisi Informasi Hijab Masa Kini</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up</a></p>
             </div>
@@ -213,7 +213,7 @@ if(!$gossip)
     <meta name="author" content="">
     <link rel="icon" href="">
 
-    <title>Hijab-Qu Informasi Hijab Masa Kini</title>
+    <title>PeopLifestyle Informasi Hijab Masa Kini</title>
 
     <style>
     .konten{
@@ -257,7 +257,7 @@ if(!$gossip)
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Hijab-Qu</a>
+              <a class="navbar-brand" href="#">PeopLifestyle</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -292,7 +292,7 @@ if(!$gossip)
           <img src="img\16.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu.</h1>
+              <h1>PeopLifestyle.</h1>
               <p>Web Berisi Informasi Hijab Masa Kini</p>
             </div>
           </div>
@@ -301,7 +301,7 @@ if(!$gossip)
           <img src="img\22.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
+              <h1>PeopLifestyle</h1>
               <p>Web Berisi Informasi Hijab Masa Kini</p>
             </div>
           </div>
@@ -310,7 +310,7 @@ if(!$gossip)
           <img src="img\18.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
+              <h1>PeopLifestyle</h1>
               <p>Web Berisi Informasi Hijab Masa Kini</p>
             </div>
           </div>

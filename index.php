@@ -28,7 +28,7 @@ if($_SESSION['status_log'])
     <meta name="author" content="">
     <link rel="icon" href="">
 
-    <title>Hijab-Qu, Informasi Hijab Masa Kini</title>
+    <title>PeopLifestyle, Informasi Gaya Hidup Masa Kini</title>
 
     <style>
     .konten{
@@ -72,7 +72,7 @@ if($_SESSION['status_log'])
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Hijab-Qu</a>
+              <a class="navbar-brand" href="#">PeopLifestyle</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -110,8 +110,8 @@ if($_SESSION['status_log'])
           <img src="img\ds2.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
-              <p>Web Berisi Informasi Hijab Masa Kini</p>
+              <h1>PeopLifestyle</h1>
+  Gaya Hidup   <p>Web Berisi Informasi Gaya Hidup Masa Kini</p>
             </div>
           </div>
         </div>
@@ -119,8 +119,8 @@ if($_SESSION['status_log'])
           <img src="img\22.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
-              <p>Web Berisi Informasi Hijab Masa Kini</p>
+              <h1>PeopLifestyle</h1>
+  Gaya Hidup   <p>Web Berisi Informasi Gaya Hidup Masa Kini</p>
             </div>
           </div>
         </div>
@@ -128,8 +128,8 @@ if($_SESSION['status_log'])
           <img src="img\18.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
-              <p>Web Berisi Informasi Hijab Masa Kini</p>
+              <h1>PeopLifestyle</h1>
+  Gaya Hidup   <p>Web Berisi Informasi Gaya Hidup Masa Kini</p>
             </div>
           </div>
         </div>
@@ -172,7 +172,7 @@ if($_SESSION['status_log'])
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2016 JoelNoem's, Inc.</p>
+        <p>&copy; 2014 JoelNoem's, Inc.</p>
       </footer>
       </div><!-- /.container -->
 
@@ -209,7 +209,7 @@ $home = mysql_query($query_home);
     <meta name="author" content="">
     <link rel="icon" href="">
 
-    <title>Hijab-Qu, Informasi Hijab Masa Kini</title>
+    <title>PeopLifestyle, Informasi Gaya Hidup Masa Kini</title>
 
     <style>
     .konten{
@@ -253,7 +253,7 @@ $home = mysql_query($query_home);
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Hijab-Qu</a>
+              <a class="navbar-brand" href="#">PeopLifestyle</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -288,8 +288,8 @@ $home = mysql_query($query_home);
           <img src="img\10.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu.</h1>
-              <p>Web Berisi Informasi Hijab Masa Kini</p>
+              <h1>PeopLifestyle.</h1>
+Gaya Hidup    <p>Web Berisi Informasi Gaya Hidup Masa Kini</p>
             </div>
           </div>
         </div>
@@ -297,8 +297,8 @@ $home = mysql_query($query_home);
           <img src="img\11.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
-              <p>Web Berisi Informasi Hijab Masa Kini</p>
+              <h1>PeopLifestyle</h1>
+  Gaya Hidup   <p>Web Berisi Informasi Gaya Hidup Masa Kini</p>
             </div>
           </div>
         </div>
@@ -306,8 +306,8 @@ $home = mysql_query($query_home);
           <img src="img\12.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Hijab-Qu</h1>
-              <p>Web Berisi Informasi Hijab Masa Kini</p>
+              <h1>PeopLifestyle</h1>
+  Gaya Hidup   <p>Web Berisi Informasi Gaya Hidup Masa Kini</p>
             </div>
           </div>
         </div>
@@ -375,7 +375,7 @@ $home = mysql_query($query_home);
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2016 JoelNoem's, Inc.</p>
+        <p>&copy; 2014 JoelNoem's, Inc.</p>
       </footer>
       </div><!-- /.container -->
 
